@@ -5,6 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <b> Hello Tech Devotee ✨ ❤️‍🔥 ✨ </b>
+
 My name is Elizabeth García, a current Front-end and future Full Stack developer. 
 
 🔭 I’m currently working at MPS as a Telepresence Leader 💻 
@@ -20,4 +21,4 @@ My name is Elizabeth García, a current Front-end and future Full Stack develope
 😄 Pronouns: She/Hers
 
 ⚡ Fun fact: I am fluent in 5 different languages: Spanish, Italian, French and Portuguese. 
-
+            

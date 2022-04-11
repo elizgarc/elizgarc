@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 My name is Elizabeth García, a current Front-end and future Full Stack developer. 
 
-🔭 I’m currently working at MPS as a Telepresence Leader 💻 
+🔭 I’m currently working at MPS as a Telepresence Leader ✨💻✨
 
 🌱 I’m currently learning: 
 
@@ -20,7 +20,7 @@ My name is Elizabeth García, a current Front-end and future Full Stack develope
 ![image](https://user-images.githubusercontent.com/98338136/162670174-a2f6a41f-1b68-4d45-9bb4-1b3a87ec60e4.png) ![image](https://user-images.githubusercontent.com/98338136/162670234-deec61ef-eab0-4af0-9de5-621e332bc35b.png) ![image](https://user-images.githubusercontent.com/98338136/162670253-19bf6d57-d5c0-4e82-8280-c1a06aea16fa.png)
 
 
-⚡⚡⚡ Fun fact: I am fluent in 5 different languages: English, Spanish, Italian, French and Portuguese. 🇺🇸 🇵🇷 🇮🇹 🇫🇷 🇧🇷
+⚡⚡⚡ Fun fact: I am fluent in 5 different languages: English 🇺🇸, Spanish 🇵🇷, Italian🇮🇹, French🇫🇷, and Portuguese 🇧🇷.  
 
 
 

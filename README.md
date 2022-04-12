@@ -17,7 +17,7 @@ My name is Elizabeth García, a current Front-end and future Full Stack develope
 
 📫 How to reach out : Click images below  ⬇︎
 
-![image](https://user-images.githubusercontent.com/98338136/162670174-a2f6a41f-1b68-4d45-9bb4-1b3a87ec60e4.png) [![image](https://user-images.githubusercontent.com/98338136/162670234-deec61ef-eab0-4af0-9de5-621e332bc35b.png)](http://linkedin.com/in/elizabeth-garcía-msc-pm-9192b653) [![image](https://user-images.githubusercontent.com/98338136/162670253-19bf6d57-d5c0-4e82-8280-c1a06aea16fa.png)](https://mail.google.com/mail/u/?authuser=webdevelizzz@gmail.com)
+[![image](https://user-images.githubusercontent.com/98338136/162670174-a2f6a41f-1b68-4d45-9bb4-1b3a87ec60e4.png)](http://https://mail.google.com/mail/u/?authuser=https://twitter.com/eliz_garc) [![image](https://user-images.githubusercontent.com/98338136/162670234-deec61ef-eab0-4af0-9de5-621e332bc35b.png)](http://linkedin.com/in/elizabeth-garcía-msc-pm-9192b653) [![image](https://user-images.githubusercontent.com/98338136/162670253-19bf6d57-d5c0-4e82-8280-c1a06aea16fa.png)](https://mail.google.com/mail/u/?authuser=webdevelizzz@gmail.com)
 
 
 ⚡ Skills: I am fluent in 5 different languages: English 🇺🇸, Spanish 🇵🇷, Italian🇮🇹, French🇫🇷, and Portuguese 🇧🇷

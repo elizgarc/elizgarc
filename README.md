@@ -10,7 +10,7 @@ My name is Elizabeth García, a current Front-end and future Full Stack develope
 
 🔭 I’m currently working at MPS as a Telepresence Leader ✨💻✨
 
-🌱 Currently learning: 
+🌱 Now learning: 
 
 ![image](https://user-images.githubusercontent.com/98338136/162670514-32f704f6-9665-45ad-9d49-debe8be38311.png) ![image](https://user-images.githubusercontent.com/98338136/162670523-d25152d1-1459-4ed5-b159-a1a56fa7296f.png) ![image](https://user-images.githubusercontent.com/98338136/162670543-c19d6595-e1c7-4c87-91f7-8edda6e06f05.png)  ![image](https://user-images.githubusercontent.com/98338136/162670732-778f9d1c-a2c1-4552-a7bd-db40dc17f96f.png) 
 

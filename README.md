@@ -24,7 +24,7 @@ My name is Elizabeth García, a current Front-end and future Full Stack develope
 
 ⚡ Hobbies: I like to play beach volleyball and practice golf 🏐 🏌🏽‍♀️ ⛳️
 
-⚡ Fun Facts: I can't play any instrument, but I still can sing classical music known as opera 👩🏽‍🎤
+⚡ Fun Facts: I love photography. Also, loving cooking whenever I feel inspired and concentrated. I can't play any instrument, but I still can sing classical music known as opera 👩🏽‍🎤
 
 
 

@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 My name is Elizabeth García, a current Front-end and future Full Stack developer. 
 
-🔭 I’m currently working at MPS as a Telepresence Leader ✨💻✨
+🔭 I’m currently working as a PM! ✨💻✨
 
 🌱 Now learning: 
 

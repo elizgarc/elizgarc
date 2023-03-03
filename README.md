@@ -6,9 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 <b> Hello Tech Devotee  ❤️‍🔥 </b>
 
-My name is Elizabeth García, a current Front-end and future Full Stack developer. 
-
-🔭 I’m currently working as a Technology PM! ✨💻✨
+🔭 My name is Elizabeth García and I'm currently working as a Technical PM! ✨💻✨
 
 🌱 Now learning: 
 
